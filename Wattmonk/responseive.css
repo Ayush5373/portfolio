@@ -1,0 +1,271 @@
+@media only screen and (max-width: 800px) {
+    .header-1 {
+        padding-left: 0px;
+    }
+
+    .nav-top-button {
+        padding: 100px;
+        margin: 20px 27px;
+    }
+
+    #Content {
+        text-align: center;
+    }
+
+    .text h1 {
+        font-size: 2.5rem;
+        padding: 2% 3%;
+    }
+
+    .text-para {
+        line-height: 18px;
+        padding: 3.3%;
+        font-size: 1.1rem;
+    }
+
+}
+
+@media only screen and (max-width:1200px) {
+    .text-box h2 {
+        padding: 0 11%;
+    }
+
+    .text-box p {
+        padding: 5% 11%;
+    }
+
+    /* EXPERIENCE */
+    .Application li {
+        list-style: none;
+        margin: 0 3px;
+    }
+}
+
+@media only screen and (max-width: 580px) {
+    /* .page-1 {
+        padding-right: 38%;
+        position: relative;
+        left: 22%;
+    }
+
+    .page1-heading h4 {
+        text-align: center;
+        font-size: 2rem;
+    }
+
+    .page2-heading p {
+        text-align: center;
+        font-size: 1rem;
+        padding-right: 10px;
+    } */
+    /* CLIENT-SAY */
+    .client-say-para-1 {
+        margin: 11%;
+    }
+
+    .client-say-para h2 {
+        font-size: 3rem;
+        font-weight: 700;
+        padding: 40px 0px;
+    }
+
+    .client-say-text {
+        background: #F7931E;
+        list-style: none;
+        color: #fff;
+        /* width: 70%; */
+        margin-top: 50px;
+        margin-right: 10%;
+    }
+
+    .JOHN-DOE {
+        background-color: #F6F6F6;
+        padding: 5% 15%;
+    }
+
+    .arrows li {
+        list-style: none;
+        position: relative;
+        left: 120%;
+        top: -20px;
+    }
+    /* PACKAGE  */
+    .package-grid {
+        margin-right: 50px;
+        margin-bottom: 20px;
+    }
+
+    .package-heading {
+        padding: 10px 3px;
+    }
+
+    .package-footer {
+        text-align: center;
+        font-size: 1rem;
+    }
+
+    .package-footer p {
+        padding: 0 20%;
+    }
+
+    /* BLOG  */
+
+    .blog-heading h2 {
+        font-size: 2.5rem;
+        font-weight: 700;
+        padding: 20px 0;
+    }
+
+    .blog-heading p {
+        width: 100%;
+        padding-bottom: 3%;
+    }
+}
+@media only screen and (max-width: 1290px) {
+    .navbar-nav ul li {
+        padding: 0 0px;
+    }
+
+    .nav-1 {
+        margin-left: 10px;
+    }
+    #NAME {
+        padding-right: 40%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        border-style: none;
+        background: #F9F9F9;
+        margin: 10px 0;
+        border-radius: 5px;
+    }
+    
+    #EMAIL {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 40%;
+        border-style: none;
+        background: #F9F9F9;
+        margin: 10px 0;
+        border-radius: 5px;
+    }
+    
+    #TEL {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 40%;
+        border-style: none;
+        background: #F9F9F9;
+        margin: 10px 0;
+        border-radius: 5px;
+    }
+    
+    #MESSAGE {
+        padding-top: 10px;
+        padding-left: 10px;
+        padding-right: 40%;
+        padding-bottom: 15%;
+        border-style: none;
+        background: #F9F9F9;
+        margin: 10px 0;
+        border-radius: 5px;
+    }
+    
+    #RADIO {
+        margin: 20px 0;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+
+    /*  */
+    .text-para {
+        line-height: 24px;
+        margin: 6% 5%;
+        font-size: 1.1rem;
+    }
+
+    .text input {
+        padding: 1% 8% 1% 0;
+        background: #FEF8F1;
+        border-style: none;
+    }
+
+    .text .input {
+        padding-left: 5%;
+    }
+
+    .input-p {
+        background-color: #F37B20;
+        padding: 7px 7px;
+    }
+
+    .input span a {
+        color: black;
+        text-decoration: none;
+    }
+
+    /* BRAND */
+    #BRAND h3 {
+        padding-bottom: 2%;
+        font-weight: 700;
+        font-size: 2rem;
+    }
+
+    #BRAND img {
+        width: 90%;
+    }
+
+}
+
+@media  only screen and (max-width: 990px) {
+    #NAME {
+        padding-right: 20%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        border-style: none;
+        background: #F9F9F9;
+        margin: 10px 0;
+        border-radius: 5px;
+    }
+    
+    #EMAIL {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 20%;
+        border-style: none;
+        background: #F9F9F9;
+        margin: 10px 0;
+        border-radius: 5px;
+    }
+    
+    #TEL {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 20%;
+        border-style: none;
+        background: #F9F9F9;
+        margin: 10px 0;
+        border-radius: 5px;
+    }
+    
+    #MESSAGE {
+        padding-top: 10px;
+        padding-left: 10px;
+        padding-right: 20%;
+        padding-bottom: 15%;
+        border-style: none;
+        background: #F9F9F9;
+        margin: 10px 0;
+        border-radius: 5px;
+    }
+    
+    #RADIO {
+        margin: 20px 0;
+    }
+}

@@ -1,0 +1,329 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(image/bg.png);
+    min-height: 100vh;
+    min-width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.logo {
+    justify-items: center;
+}
+
+.logo img {
+    padding: 29px 40px;
+}
+
+.nav-item {
+    padding: 20px 25px;
+}
+
+.text {
+    color: white;
+    padding: 100px 80px;
+}
+
+.text h1 {
+    padding: 10px 0;
+    line-height:1.5;
+    font-family: 'DM Serif Display', serif;
+}
+
+.text p {
+    font-family: 'Poppins', sans-serif;
+    padding: 8px 0;
+}
+
+.socail-icon {
+    color: white;
+}
+
+.socail-icon ul {
+    display: flex;
+    list-style: none;
+    padding: 10px 90px;
+}
+
+.socail-icon ul li {
+    padding: 0 20px;
+}
+
+.number ul {
+    display: flex;
+}
+.button-search{
+    /* padding: 10px 30px; */
+    border-style: none;
+    background-color: transparent;
+    color: #fff;
+}
+.button-bar{
+    /* padding: 10px 30px; */
+    border-style: none;
+    background-color: transparent;
+    color: #fff;
+
+}
+
+/* SECTION 2 */
+#testimonail {
+    background-color: #000A1E;
+    color: #fff;
+    padding: 5rem 0rem 5rem 2.5rem;
+}
+
+#testimonail .heading h1 {
+    font-family: 'DM Serif Display', serif;
+}
+
+#testimonail h1 {
+    color: #047AAB;
+
+}
+
+#testimonail .heading p {
+    width: 70%;
+}
+
+.box1 {
+    /* min-width: 0px; */
+}
+
+.box1 ul {
+    list-style: none;
+}
+
+.box2 {
+    /* text-align: start; */
+    padding: 0 2rem;
+}
+
+/* SERVICE */
+#service {
+    background-color: #000A1E;
+    color: #fff;
+    padding: 5rem 2rem 5rem 2rem;
+
+}
+
+.service-para h2 {
+    font-family: 'DM Serif Display', serif;
+    line-height: 2;
+
+}
+
+.service-para p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+    line-height: 2;
+}
+
+.service-img img {
+    width: 100%;
+}
+
+.service-p {
+    color: #047AAB;
+
+}
+
+/* Residential */
+#Residential {
+    background-color: #000A1E;
+    color: #fff;
+    padding: 5rem 2rem 5rem 2rem; 
+}
+
+.Residential-heading h2 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 2.5rem;
+    /* padding-bottom: 1rem; */
+    line-height: 4;
+}
+
+.Residential-heading p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    line-height: 2;
+}
+
+.Residential-heading ul li {
+    font-size: 1rem;
+}
+
+.Residential-img img {
+    width: 100%;
+}
+
+/* BACKGROUND IMAGE 2 */
+.bg-image {
+    background-image: url(image/bg-2.png);
+    min-height: 100vh;
+    min-width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+/* ABOUT US  */
+#about-us {
+    padding: 1rem 6rem;
+}
+
+.about-us-ourstory {}
+
+.about-us-ourstory h2 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 3rem;
+}
+
+.about-us-ourstory p {
+    color: #047AAB;
+}
+
+.about-us-para p {
+    color: #666666;
+}
+
+.about-us-para {
+    width: 110%;
+}
+
+.button {
+    padding-top: 1.5rem;
+}
+
+.btn-read-more {
+    padding: 8px 16px;
+    background-color: transparent;
+    border-style: ridge;
+    border-color: grey;
+}
+
+.btn-read-more:hover {
+    background-color: #000;
+    color: #fff;
+    border-color: transparent;
+}
+
+.about-us-para {
+    padding-top: 1rem;
+}
+
+/* CLIENTS  */
+#client {
+    background-color: #000A1E;
+
+    padding: 5rem 7rem;
+
+}
+
+.img {
+    padding: 4rem 0;
+}
+
+#client img {
+    width: 13rem;
+    padding: 1rem;
+}
+
+#client p {
+    padding-bottom: 5rem;
+    font-size: 1.5rem;
+    color: #047AAB;
+
+}
+
+/* CALLBACK  */
+.callback {
+    min-height: 100vh;
+    text-align: center;
+}
+
+.callback-form {
+    padding: 90px;
+}
+
+.callback-form h2 {
+    font-family: 'DM Serif Display', serif;
+    font-size: 4.5rem;
+}
+
+input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 50%;
+    padding-bottom: 1rem;
+}
+
+.callback-form ul li {
+    list-style: none;
+    padding-top: 6rem;
+}
+
+.send-button {
+    padding-top: 4rem;
+}
+
+.btn-send {
+    padding: 10px 30px;
+    border-style: none;
+    background-color: lightgrey;
+}
+
+.btn-send:hover {
+    background-color: #000;
+    color: white;
+
+}
+
+/* Address */
+#address {
+    min-height: 90vh;
+    background-color: #000A1E;
+    text-align: center;
+    padding: 5rem;
+
+}
+
+#address h1 {
+    font-size: 3.5rem;
+    color: #047AAB;
+    font-family: 'DM Serif Display', serif;
+
+}
+
+#address ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+#address li {
+    padding: 1rem;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.p-1 {
+    color: #047AAB;
+}
+
+.p-2 {
+    color: #fff;
+    padding: 15px;
+}
+
+.p-3 {
+    color: #F9F0EC;
+}
